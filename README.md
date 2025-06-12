@@ -14,7 +14,7 @@
 
 ### Mushroom Classification Result:
 <p align="center">
- <img src="https://drive.google.com/uc?export=view&id=1gQ9ZSEXVydIrZwm0XUdYouLbkYFCJnGp" width="800" height="auto" alt="Classification Results Display">
+ <img src="https://drive.google.com/uc?export=view&id=1sJd4isMzOEaW-GM2mx5z-s9fbZfEb7m3" width="800" height="auto" alt="Classification Results Display">
 </p>
 
 ## **Installation and Setup**
